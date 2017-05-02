@@ -1,0 +1,6 @@
+name = Special Links
+description = Description
+package = Custom Modules
+core = 7.x
+files[] = simple_links.module
+stylesheets[all][] = styles.css
